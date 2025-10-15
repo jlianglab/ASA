@@ -1,0 +1,24 @@
+{
+    "training": [
+        {
+            "image": "/scratch/jpang12/replicated_dataset/LUNA16/org/subset0/1.3.6.1.4.1.14519.5.2.1.6279.6001.979083010707182900091062408058.nii.gz",
+            "label": "seg-lungs-LUNA16/1.3.6.1.4.1.14519.5.2.1.6279.6001.979083010707182900091062408058.nii.gz"
+        },
+        {
+            "image": "/scratch/jpang12/replicated_dataset/LUNA16/org/subset0/1.3.6.1.4.1.14519.5.2.1.6279.6001.154677396354641150280013275227.nii.gz",
+            "label": "seg-lungs-LUNA16/1.3.6.1.4.1.14519.5.2.1.6279.6001.154677396354641150280013275227.nii.gz"
+        },
+        {
+            "image": "/scratch/jpang12/replicated_dataset/LUNA16/org/subset0/1.3.6.1.4.1.14519.5.2.1.6279.6001.752756872840730509471096155114.nii.gz",
+            "label": "seg-lungs-LUNA16/1.3.6.1.4.1.14519.5.2.1.6279.6001.752756872840730509471096155114.nii.gz"
+        },
+        {
+            "image": "/scratch/jpang12/replicated_dataset/LUNA16/org/subset0/1.3.6.1.4.1.14519.5.2.1.6279.6001.621916089407825046337959219998.nii.gz",
+            "label": "seg-lungs-LUNA16/1.3.6.1.4.1.14519.5.2.1.6279.6001.621916089407825046337959219998.nii.gz"
+        },
+        {
+            "image": "/scratch/jpang12/replicated_dataset/LUNA16/org/subset0/1.3.6.1.4.1.14519.5.2.1.6279.6001.124154461048929153767743874565.nii.gz",
+            "label": "seg-lungs-LUNA16/1.3.6.1.4.1.14519.5.2.1.6279.6001.124154461048929153767743874565.nii.gz"
+        }
+    ]
+}
